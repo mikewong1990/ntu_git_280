@@ -14,4 +14,6 @@ mikewong1990
 
 My Favorite 3 Programming Languages
 --------------------------------
-Delphi PL/SQL T-SQL
+- Delphi 
+- PL/SQL 
+- T-SQL
